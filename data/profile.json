@@ -9,27 +9,27 @@
     "hardSkills": [
       {
         "name": "JavaScript",
-        "logo": "https://github.com/vitorhenriquec0/portfolioVitor/blob/master/data/imgs/icons8-javascript-48.png"
+        "logo": "https://raw.githubusercontent.com/vitorhenriquec0/portfolioVitor/master/data/imgs/icons8-javascript-48.png"
       },
       {
         "name": "Linguagem C",
-        "logo": "https://github.com/vitorhenriquec0/portfolioVitor/blob/master/data/imgs/icons8-c-programming-48.png"
+        "logo": "https://raw.githubusercontent.com/vitorhenriquec0/portfolioVitor/master/data/imgs/icons8-c-programming-48.png"
       },
       {
         "name": "CSS",
-        "logo": "https://github.com/vitorhenriquec0/portfolioVitor/blob/master/data/imgs/icons8-css-48.png"
+        "logo": "https://raw.githubusercontent.com/vitorhenriquec0/portfolioVitor/master/data/imgs/icons8-css-48.png"
       },
       {
         "name": "HTML",
-        "logo": "https://github.com/vitorhenriquec0/portfolioVitor/blob/master/data/imgs/icons8-html-48.png"
+        "logo": "https://raw.githubusercontent.com/vitorhenriquec0/portfolioVitor/master/data/imgs/icons8-html-48.png"
       },
       {
         "name": "Git",
-        "logo": "https://github.com/vitorhenriquec0/portfolioVitor/blob/master/data/imgs/icons8-git-48.png"
+        "logo": "https://raw.githubusercontent.com/vitorhenriquec0/portfolioVitor/master/data/imgs/icons8-git-48.png"
       },
       {
         "name": "GitHub",
-        "logo": "https://github.com/vitorhenriquec0/portfolioVitor/blob/master/data/imgs/icons8-github-50.png"
+        "logo": "https://raw.githubusercontent.com/vitorhenriquec0/portfolioVitor/master/data/imgs/icons8-github-50.png"
       }
     ],
     "softSkills": [
